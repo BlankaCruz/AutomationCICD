@@ -16,7 +16,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.plugin>3.10.1</maven.compiler.plugin>
+        <maven.compiler.plugin>3.9.9</maven.compiler.plugin>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <java.jdbc.version>19.9.0.0</java.jdbc.version>
