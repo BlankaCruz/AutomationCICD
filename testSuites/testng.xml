@@ -6,6 +6,11 @@
 <listener class-name="tmrs.TestComponents.Listeners"/>
 </listeners>
 
+  <groups>
+    <run>
+      <include name="Regression"/>
+    </run>
+  </groups>
 
   <test thread-count="5" name="Submit Order Test">
     <classes>
